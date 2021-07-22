@@ -1,0 +1,27 @@
+{
+  "DATABASE_URL": "postgres://adil:adil@postgres:5432/postgres",
+  "VK_API": "765ae60ffe32c513ab87d95f62fa2ba5f63a8b2cad65910702b5c0e99591e5239d5636d9184f264153d01",
+  "GROUPS": ["rambler","ramblermail","horoscopesrambler","championat","championat.auto","championat_cybersport","livejournal","afisha"],
+  "GROUPS_FIELDS": {
+    "id": true,
+    "name": true,
+    "screen_name": false,
+    "is_closed": false,
+    "deactivated": false,
+    "type": false,
+    "has_photo": false,
+    "photo_50": false,
+    "photo_100": false,
+    "photo_200": false,
+    "status": false,
+    "verified": false,
+    "site": false,
+    "trending": false
+  },
+  "USERS_FIELDS": {
+    "first_name": true,
+    "id": true,
+    "last_name": true
+  },
+  "BATCH_SIZE": 1000
+}

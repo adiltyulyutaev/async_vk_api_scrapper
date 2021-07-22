@@ -1,0 +1,1 @@
+from .vk_client import VkApi

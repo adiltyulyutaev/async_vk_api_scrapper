@@ -1,0 +1,611 @@
+2021-07-22 17:36:00,908 — INFO — Database connected
+2021-07-22 17:36:03,207 — INFO — Selected 8env file
+2021-07-22 17:36:03,965 — INFO — info about rambler returned
+2021-07-22 17:36:04,716 — INFO — info about ramblermail returned
+2021-07-22 17:36:05,480 — INFO — info about horoscopesrambler returned
+2021-07-22 17:36:06,229 — INFO — info about championat returned
+2021-07-22 17:36:06,977 — INFO — info about championat.auto returned
+2021-07-22 17:36:07,747 — INFO — info about championat_cybersport returned
+2021-07-22 17:36:08,511 — INFO — info about livejournal returned
+2021-07-22 17:36:09,263 — INFO — info about afisha returned
+2021-07-22 17:36:09,273 — INFO — Upserted row about groups
+2021-07-22 17:36:09,278 — INFO — Upserted row about groups
+2021-07-22 17:36:09,283 — INFO — Upserted row about groups
+2021-07-22 17:36:09,289 — INFO — Upserted row about groups
+2021-07-22 17:36:09,294 — INFO — Upserted row about groups
+2021-07-22 17:36:09,300 — INFO — Upserted row about groups
+2021-07-22 17:36:09,305 — INFO — Upserted row about groups
+2021-07-22 17:36:09,310 — INFO — Upserted row about groups
+2021-07-22 17:37:14,239 — INFO — Database connected
+2021-07-22 17:37:15,996 — INFO — Selected 8env file
+2021-07-22 17:37:16,754 — INFO — info about rambler returned
+2021-07-22 17:37:17,535 — INFO — info about ramblermail returned
+2021-07-22 17:37:18,288 — INFO — info about horoscopesrambler returned
+2021-07-22 17:37:19,054 — INFO — info about championat returned
+2021-07-22 17:37:19,794 — INFO — info about championat.auto returned
+2021-07-22 17:37:20,536 — INFO — info about championat_cybersport returned
+2021-07-22 17:37:21,291 — INFO — info about livejournal returned
+2021-07-22 17:37:22,048 — INFO — info about afisha returned
+2021-07-22 17:37:22,058 — INFO — Upserted row about groups
+2021-07-22 17:37:22,064 — INFO — Upserted row about groups
+2021-07-22 17:37:22,069 — INFO — Upserted row about groups
+2021-07-22 17:37:22,076 — INFO — Upserted row about groups
+2021-07-22 17:37:22,081 — INFO — Upserted row about groups
+2021-07-22 17:37:22,087 — INFO — Upserted row about groups
+2021-07-22 17:37:22,092 — INFO — Upserted row about groups
+2021-07-22 17:37:22,097 — INFO — Upserted row about groups
+2021-07-22 17:38:15,324 — INFO — 100 users are upserted from group with group_id 86125491
+2021-07-22 17:38:15,324 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:38:15,536 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 17:38:15,537 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:38:15,543 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 17:38:15,544 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:38:15,652 — INFO — 100 users are upserted from group with group_id 147610669
+2021-07-22 17:38:15,652 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:38:15,654 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 17:38:15,655 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:38:15,660 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 17:38:15,661 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:38:15,667 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 17:38:15,667 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:38:15,671 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 17:38:15,672 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:38:48,152 — INFO — 100 users are upserted from group with group_id 86125491
+2021-07-22 17:38:48,153 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:38:48,227 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 17:38:48,228 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:38:48,234 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 17:38:48,235 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:38:48,335 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 17:38:48,336 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:38:48,446 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 17:38:48,448 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:38:48,450 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 17:38:48,451 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:38:48,452 — INFO — 100 users are upserted from group with group_id 147610669
+2021-07-22 17:38:48,453 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:38:48,456 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 17:38:48,456 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:39:20,951 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 17:39:20,952 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:39:20,954 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 17:39:20,955 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:39:20,958 — INFO — 100 users are upserted from group with group_id 86125491
+2021-07-22 17:39:20,959 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:39:21,140 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 17:39:21,141 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:39:21,151 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 17:39:21,152 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:39:21,154 — INFO — 100 users are upserted from group with group_id 147610669
+2021-07-22 17:39:21,156 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:39:21,158 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 17:39:21,158 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:39:21,248 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 17:39:21,249 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:39:53,623 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 17:39:53,624 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:39:53,630 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 17:39:53,631 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:39:53,732 — INFO — 100 users are upserted from group with group_id 86125491
+2021-07-22 17:39:53,732 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:39:53,842 — INFO — 100 users are upserted from group with group_id 147610669
+2021-07-22 17:39:53,843 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:39:53,844 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 17:39:53,845 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:39:53,951 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 17:39:53,952 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:39:53,954 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 17:39:53,955 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:39:54,060 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 17:39:54,061 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:40:15,789 — INFO — All subscribers with group_id 147610669 are collected
+2021-07-22 17:40:15,798 — INFO — 66 users are upserted from group with group_id 147610669
+2021-07-22 17:40:15,798 — INFO — 66 subscribing relationships are upserted
+2021-07-22 17:40:26,829 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 17:40:26,830 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:40:26,952 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 17:40:26,953 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:40:27,070 — INFO — 100 users are upserted from group with group_id 86125491
+2021-07-22 17:40:27,071 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:40:27,072 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 17:40:27,073 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:40:27,183 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 17:40:27,184 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:40:27,296 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 17:40:27,297 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:40:27,416 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 17:40:27,417 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:40:59,606 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 17:40:59,607 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:40:59,607 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 17:40:59,608 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:40:59,818 — INFO — 100 users are upserted from group with group_id 86125491
+2021-07-22 17:40:59,819 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:40:59,823 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 17:40:59,824 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:40:59,825 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 17:40:59,826 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:41:00,055 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 17:41:00,056 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:41:00,160 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 17:41:00,160 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:41:32,359 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 17:41:32,360 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:41:32,369 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 17:41:32,370 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:41:32,578 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 17:41:32,579 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:41:32,582 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 17:41:32,583 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:41:32,585 — INFO — 100 users are upserted from group with group_id 86125491
+2021-07-22 17:41:32,586 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:41:32,797 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 17:41:32,798 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:41:32,904 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 17:41:32,906 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:42:05,062 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 17:42:05,064 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:42:05,064 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 17:42:05,065 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:42:05,286 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 17:42:05,287 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:42:05,288 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 17:42:05,288 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:42:05,290 — INFO — 100 users are upserted from group with group_id 86125491
+2021-07-22 17:42:05,290 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:42:05,499 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 17:42:05,500 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:42:05,607 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 17:42:05,607 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:42:37,728 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 17:42:37,729 — INFO — 100 subscribing relationships are upserted
+2021-07-22 17:42:37,832 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 17:42:37,833 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:08:33,111 — INFO — Database connected
+2021-07-22 18:08:35,088 — INFO — Selected 8env file
+2021-07-22 18:08:35,858 — INFO — info about rambler returned
+2021-07-22 18:08:36,601 — INFO — info about ramblermail returned
+2021-07-22 18:08:37,352 — INFO — info about horoscopesrambler returned
+2021-07-22 18:08:38,096 — INFO — info about championat returned
+2021-07-22 18:08:38,852 — INFO — info about championat.auto returned
+2021-07-22 18:08:39,599 — INFO — info about championat_cybersport returned
+2021-07-22 18:08:40,350 — INFO — info about livejournal returned
+2021-07-22 18:08:41,095 — INFO — info about afisha returned
+2021-07-22 18:08:41,106 — INFO — Upserted row about groups
+2021-07-22 18:08:41,112 — INFO — Upserted row about groups
+2021-07-22 18:08:41,120 — INFO — Upserted row about groups
+2021-07-22 18:08:41,126 — INFO — Upserted row about groups
+2021-07-22 18:08:41,133 — INFO — Upserted row about groups
+2021-07-22 18:08:41,139 — INFO — Upserted row about groups
+2021-07-22 18:08:41,143 — INFO — Upserted row about groups
+2021-07-22 18:08:41,148 — INFO — Upserted row about groups
+2021-07-22 18:09:35,895 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:09:35,896 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:09:35,899 — INFO — 100 users are upserted from group with group_id 86125491
+2021-07-22 18:09:35,900 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:09:35,903 — INFO — 100 users are upserted from group with group_id 147610669
+2021-07-22 18:09:35,903 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:09:35,904 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:09:35,905 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:09:35,910 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:09:35,912 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:09:35,915 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:09:35,916 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:09:35,918 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:09:35,919 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:09:36,001 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:09:36,002 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:10:08,769 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:10:08,770 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:10:08,770 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:10:08,771 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:10:08,772 — INFO — 100 users are upserted from group with group_id 147610669
+2021-07-22 18:10:08,772 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:10:08,773 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:10:08,774 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:10:08,790 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:10:08,791 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:10:08,792 — INFO — 100 users are upserted from group with group_id 86125491
+2021-07-22 18:10:08,792 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:10:08,795 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:10:08,796 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:10:08,801 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:10:08,802 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:10:41,544 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:10:41,546 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:10:41,554 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:10:41,555 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:10:41,557 — INFO — 100 users are upserted from group with group_id 86125491
+2021-07-22 18:10:41,558 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:10:41,559 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:10:41,559 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:10:41,561 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:10:41,561 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:10:41,563 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:10:41,564 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:10:41,564 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:10:41,565 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:10:41,566 — INFO — 100 users are upserted from group with group_id 147610669
+2021-07-22 18:10:41,566 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:11:14,288 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:11:14,288 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:11:14,291 — INFO — 100 users are upserted from group with group_id 86125491
+2021-07-22 18:11:14,292 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:11:14,293 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:11:14,293 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:11:14,343 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:11:14,343 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:11:14,392 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:11:14,392 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:11:14,396 — INFO — 100 users are upserted from group with group_id 147610669
+2021-07-22 18:11:14,396 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:11:14,397 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:11:14,398 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:11:14,399 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:11:14,399 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:11:36,405 — INFO — All subscribers with group_id 147610669 are collected
+2021-07-22 18:11:36,414 — INFO — 66 users are upserted from group with group_id 147610669
+2021-07-22 18:11:36,415 — INFO — 66 subscribing relationships are upserted
+2021-07-22 18:11:47,587 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:11:47,588 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:11:47,589 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:11:47,590 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:11:47,699 — INFO — 100 users are upserted from group with group_id 86125491
+2021-07-22 18:11:47,700 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:11:47,702 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:11:47,703 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:11:47,705 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:11:47,706 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:11:47,708 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:11:47,709 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:11:47,802 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:11:47,802 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:12:20,225 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:12:20,226 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:12:20,228 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:12:20,229 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:12:20,335 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:12:20,335 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:12:20,337 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:12:20,337 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:12:20,390 — INFO — 100 users are upserted from group with group_id 86125491
+2021-07-22 18:12:20,391 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:12:20,393 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:12:20,394 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:12:20,503 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:12:20,504 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:12:52,895 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:12:52,897 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:12:53,004 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:12:53,004 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:12:53,005 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:12:53,006 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:12:53,094 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:12:53,095 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:12:53,096 — INFO — 100 users are upserted from group with group_id 86125491
+2021-07-22 18:12:53,097 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:12:53,203 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:12:53,204 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:12:53,206 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:12:53,207 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:13:25,605 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:13:25,606 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:13:25,821 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:13:25,822 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:13:25,826 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:13:25,826 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:13:25,898 — INFO — 100 users are upserted from group with group_id 86125491
+2021-07-22 18:13:25,899 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:13:25,900 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:13:25,900 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:13:25,910 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:13:25,911 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:13:25,915 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:13:25,916 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:13:58,271 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:13:58,272 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:13:58,588 — INFO — 100 users are upserted from group with group_id 86125491
+2021-07-22 18:13:58,589 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:13:58,594 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:13:58,595 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:13:58,596 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:13:58,597 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:13:58,597 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:13:58,598 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:13:58,598 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:13:58,599 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:13:58,600 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:13:58,601 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:14:41,750 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:14:41,751 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:14:41,879 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:14:41,880 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:14:41,977 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:14:41,978 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:14:41,980 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:14:41,980 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:14:41,981 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:14:41,982 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:14:41,983 — INFO — 100 users are upserted from group with group_id 86125491
+2021-07-22 18:14:41,984 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:14:42,072 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:14:42,072 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:15:00,447 — INFO — All subscribers with group_id 86125491 are collected
+2021-07-22 18:15:00,456 — INFO — 55 users are upserted from group with group_id 86125491
+2021-07-22 18:15:00,456 — INFO — 55 subscribing relationships are upserted
+2021-07-22 18:15:15,132 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:15:15,132 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:15:15,266 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:15:15,266 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:15:15,374 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:15:15,375 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:15:15,379 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:15:15,380 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:15:15,437 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:15:15,437 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:15:15,438 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:15:15,438 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:15:47,831 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:15:47,832 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:15:47,919 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:15:47,920 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:15:48,027 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:15:48,028 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:15:48,034 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:15:48,035 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:15:48,140 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:15:48,141 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:15:48,142 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:15:48,142 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:16:20,547 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:16:20,548 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:16:20,588 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:16:20,589 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:16:20,650 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:16:20,651 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:16:20,696 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:16:20,696 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:16:20,873 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:16:20,874 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:16:20,876 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:16:20,877 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:16:53,263 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:16:53,263 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:16:53,310 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:16:53,311 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:16:53,356 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:16:53,356 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:16:53,402 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:16:53,403 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:16:53,511 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:16:53,511 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:16:53,557 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:16:53,558 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:17:25,964 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:17:25,965 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:17:25,970 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:17:25,971 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:17:25,975 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:17:25,975 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:17:26,038 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:17:26,039 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:17:26,147 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:17:26,148 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:17:26,149 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:17:26,149 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:17:58,629 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:17:58,631 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:17:58,719 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:17:58,720 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:17:58,721 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:17:58,721 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:17:58,726 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:17:58,727 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:17:58,822 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:17:58,823 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:17:58,831 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:17:58,831 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:18:31,277 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:18:31,278 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:18:31,279 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:18:31,279 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:18:31,386 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:18:31,387 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:18:31,388 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:18:31,389 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:18:31,390 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:18:31,390 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:18:31,493 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:18:31,494 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:19:03,984 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:19:03,985 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:19:03,987 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:19:03,988 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:19:04,097 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:19:04,098 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:19:04,100 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:19:04,101 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:19:04,108 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:19:04,108 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:19:04,201 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:19:04,203 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:19:36,697 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:19:36,698 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:19:36,703 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:19:36,704 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:19:36,891 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:19:36,892 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:19:36,900 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:19:36,901 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:19:36,908 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:19:36,908 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:19:37,106 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:19:37,107 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:20:17,630 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:20:17,631 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:20:17,740 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:20:17,741 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:20:19,705 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:20:19,705 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:20:19,706 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:20:19,707 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:20:19,708 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:20:19,709 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:20:20,024 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:20:20,026 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:20:52,143 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:20:52,144 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:20:52,316 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:20:52,317 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:20:52,490 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:20:52,491 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:20:52,496 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:20:52,496 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:20:52,502 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:20:52,502 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:20:52,831 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:20:52,832 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:21:24,844 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:21:24,845 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:21:24,985 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:21:24,986 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:21:25,205 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:21:25,205 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:21:25,206 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:21:25,207 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:21:25,207 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:21:25,208 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:21:25,602 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:21:25,603 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:21:57,502 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:21:57,504 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:21:57,611 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:21:57,612 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:21:57,894 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:21:57,895 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:21:57,927 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:21:57,928 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:21:57,930 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:21:57,930 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:21:58,381 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:21:58,382 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:22:30,214 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:22:30,215 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:22:30,554 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:22:30,555 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:22:30,679 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:22:30,680 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:22:30,683 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:22:30,684 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:22:30,685 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:22:30,686 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:22:31,110 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:22:31,111 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:23:02,901 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:23:02,902 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:23:03,119 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:23:03,120 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:23:03,337 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:23:03,338 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:23:03,457 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:23:03,458 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:23:03,460 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:23:03,461 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:23:03,882 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:23:03,883 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:23:35,680 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:23:35,681 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:23:35,944 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:23:35,946 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:23:36,098 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:23:36,099 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:23:36,285 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:23:36,286 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:23:36,287 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:23:36,288 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:23:36,721 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:23:36,721 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:24:08,427 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:24:08,428 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:24:08,754 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:24:08,755 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:24:08,788 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:24:08,789 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:24:08,992 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:24:08,992 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:24:08,993 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:24:08,994 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:24:09,519 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:24:09,519 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:24:41,094 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:24:41,095 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:24:41,512 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:24:41,513 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:24:41,515 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:24:41,516 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:24:41,728 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:24:41,729 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:24:41,748 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:24:41,749 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:24:42,289 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:24:42,291 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:25:13,788 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:25:13,789 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:25:14,222 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:25:14,223 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:25:14,330 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:25:14,331 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:25:14,439 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:25:14,440 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:25:14,513 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:25:14,514 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:25:15,083 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:25:15,084 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:25:48,323 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:25:48,325 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:25:55,771 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:25:55,772 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:25:55,785 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:25:55,785 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:25:56,001 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:25:56,001 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:25:56,111 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:25:56,112 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:25:58,497 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:25:58,497 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:26:30,023 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:26:30,024 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:26:30,366 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:26:30,366 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:26:30,473 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:26:30,474 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:26:30,582 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:26:30,583 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:26:30,788 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:26:30,789 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:26:31,318 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:26:31,319 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:27:02,787 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:27:02,788 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:27:03,118 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:27:03,118 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:27:03,239 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:27:03,239 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:27:03,350 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:27:03,351 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:27:03,569 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:27:03,570 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:27:04,147 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:27:04,148 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:27:35,533 — INFO — 100 users are upserted from group with group_id 25072924
+2021-07-22 18:27:35,535 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:27:35,906 — INFO — 100 users are upserted from group with group_id 1331201
+2021-07-22 18:27:35,907 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:27:35,965 — INFO — 100 users are upserted from group with group_id 77903189
+2021-07-22 18:27:35,965 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:27:36,185 — INFO — 100 users are upserted from group with group_id 97751087
+2021-07-22 18:27:36,186 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:27:36,296 — INFO — 100 users are upserted from group with group_id 1672730
+2021-07-22 18:27:36,297 — INFO — 100 subscribing relationships are upserted
+2021-07-22 18:27:36,952 — INFO — 100 users are upserted from group with group_id 36023798
+2021-07-22 18:27:36,954 — INFO — 100 subscribing relationships are upserted
